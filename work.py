@@ -3,3 +3,7 @@ def question():
 
 def answer():
     return "Hello My Name is Prathiksha"
+
+
+print("Hello")
+print("HI")
